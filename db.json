@@ -1,39 +1,38 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "name": "Leanne Graham",
-      "salary": 44000,
-      "rating": 3,
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0D1mCDZ61ujI_f-ufo-deeQ8kx4LzzSk6A&usqp=CAU"
-    },
-    {
-      "id": 2,
-      "name": "Ervin Howell",
-      "salary": 50000,
-      "rating": 4,
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEu0d0a1yn4MknqQN8EGsKXMPdWDf-dxLLg&usqp=CAU"
-    },
-    {
-      "id": 3,
-      "name": "Clementine Bauch",
-      "salary": 30000,
-      "rating": 1,
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqU2rqTiMY_rhpLC-3nE8Gb9cHGB0a_oW_8Q&usqp=CAU"
-    },
-    {
-      "id": 4,
-      "name": "Patricia Lebsack",
-      "salary": 25000,
-      "rating": 3,
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUcHiKPiQcZQGdzjnB4ej8ymEj7tj0XmLLg&usqp=CAU"
-    },
-    {
-      "id": 5,
-      "name": "Chelsey Dietrich",
-      "salary": 80000,
-      "rating": 5,
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSko9yROd_T3de8Y2HWNUbCTAshzY22wsLBRyo5svPOQDG6w1Ra2wrqOEnq-q-BZy3hkE8&usqp=CAU"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "salary": 44000,
+    "rating": 3,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0D1mCDZ61ujI_f-ufo-deeQ8kx4LzzSk6A&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "salary": 50000,
+    "rating": 4,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEu0d0a1yn4MknqQN8EGsKXMPdWDf-dxLLg&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "salary": 30000,
+    "rating": 1,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqU2rqTiMY_rhpLC-3nE8Gb9cHGB0a_oW_8Q&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "salary": 25000,
+    "rating": 3,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUcHiKPiQcZQGdzjnB4ej8ymEj7tj0XmLLg&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "salary": 80000,
+    "rating": 5,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSko9yROd_T3de8Y2HWNUbCTAshzY22wsLBRyo5svPOQDG6w1Ra2wrqOEnq-q-BZy3hkE8&usqp=CAU"
+  }
+]
+
